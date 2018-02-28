@@ -1,0 +1,3 @@
+<!--pages/car/carlist.wxml-->
+<input type='text' value='输入去哪儿查找车'></input> 搜索
+<text>顺风车1</text>

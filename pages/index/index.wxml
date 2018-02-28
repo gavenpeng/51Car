@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="btn-area">
+  <navigator url="../car/carlist" hover-class="navigator-hover">我要搭车</navigator>
+  <navigator url="../passenger/passengerlist" open-type="redirect" hover-class="other-navigator-hover">我要载入</navigator>
+</view>
+</view>
