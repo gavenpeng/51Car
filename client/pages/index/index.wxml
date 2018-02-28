@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="page__desc">51Car 是一款连接人和车的小程序，为您出行提供方便。</view>
+    </view>
+    
+    <view class="page__ft">
+        <image src="../images/icon_footer.png" style="width: 84px; height: 19px;"></image>
+    </view>
+</view>
